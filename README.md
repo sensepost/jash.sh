@@ -1,6 +1,6 @@
 # Just Another SensePost Hacker
 
-This started as an internal competition to develop polyglot's (i.e. code that runs in multiple languages) to print out the text "JASH" to be included in the [SensePost](https://sensepost.com/) 2018 artwork. This is a throw back to the old [Just Another Perl Hacker](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) competitions and is a great way for hackers to learn how to ab(use) languages. Feel free to submit your own idea with a [pull request](https://github.com/sensepost/jash.sh/compare) and we'll put the best up here with full credit to you.
+This started as an internal competition to develop polyglot's (i.e. code that runs in multiple languages) to print out the text "JASH" to be included in the [SensePost](https://sensepost.com/) 2018 artwork. This is a throw back to the old [Just Another Perl Hacker](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) competitions and is a great way for hackers to learn how to (ab)use languages. Feel free to submit your own idea with a [pull request](https://github.com/sensepost/jash.sh/compare) and we'll put the best up here with full credit to you.
 
 ### Winning entry
 
