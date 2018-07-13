@@ -4,7 +4,7 @@ For the [SensePost](https://sensepost.com/) 2018 artwork, we ran an internal com
 
 ### Winning entry
 
-[SensePost 2018 JASH Art](https://raw.githubusercontent.com/sensepost/jash.sh/master/images/jash.png | width=100)
+[SensePost 2018 JASH Art](https://raw.githubusercontent.com/sensepost/jash.sh/master/images/jash.png)
 
 ### The Rules
 
