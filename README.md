@@ -4,6 +4,7 @@ This started as an internal competition to develop polyglot's (i.e. code that ru
 
 ### Winning entry
 
+@leonjza's entry was immortalised on the HUD of:
 <a href="https://github.com/sensepost/jash.sh/blob/master/images/jash.png"><img src="https://raw.githubusercontent.com/sensepost/jash.sh/master/images/jash.png" align="center" height="200" width="200" alt="SensePost 2018 JASH Art" /></a>
 
 ### The Rules
