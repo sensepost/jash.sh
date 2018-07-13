@@ -34,7 +34,7 @@ __END__
 int main() { printf("JASH"); } /*
 """#*/
 ```
-Runs in 7: python2, zsh, Ruby, Perl, php, C, C++
+Runs in 7: python2, zsh, Ruby, Perl, php7.1, C, C++
 (ref: [@wakhub](https://gist.github.com/wakhub/2520108))
 
 By @[ian](https://github.com/sensepost/jash.sh/blob/master/polyglots/ian)
@@ -42,4 +42,4 @@ By @[ian](https://github.com/sensepost/jash.sh/blob/master/polyglots/ian)
 #!/bin/sh
 $1 JASH 2>&1 | grep -o JASH | uniq
 ```
-Ian hacked the rules to come up with his "fileless" polyglot. Run in anything that reflects the first parameter in either stdout or stderr.
+Ian hacked the rules to come up with his "fileless" polyglot. Pass in any executable that reflects the first parameter in either stdout or stderr.
