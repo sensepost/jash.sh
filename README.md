@@ -9,7 +9,7 @@ This started as an internal competition to develop polyglot's (i.e. code that ru
 ### The Rules
 
 * The primary aim is to submit a polyglot that runs in the most languages with the fewest characters.
-  * Differences in major version numbers of languages can count as different languages
+  * Differences in major version numbers of languages can count as different languages.
 * However, polyglots that use novel techniques, or run in esoteric languages are encouraged.
 * As are beautiful polyglots i.e. elegant code or pictographic code.
 
