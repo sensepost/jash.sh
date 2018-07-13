@@ -35,6 +35,7 @@ int main() { printf("JASH"); } /*
 """#*/
 ```
 Runs in 7: python2, zsh, Ruby, Perl, php, C, C++
+(ref: [@wakhub](https://gist.github.com/wakhub/2520108))
 
 By @[ian](https://github.com/sensepost/jash.sh/blob/master/polyglots/ian)
 ```bash
