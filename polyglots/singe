@@ -1,0 +1,9 @@
+#/*<?#*/
+#include <stdio.h> /*
+print 'JASH';exit;#?>
+__DATA__ = 1
+""""
+__END__
+*/
+int main() { printf("JASH"); } /*
+"""#*/
