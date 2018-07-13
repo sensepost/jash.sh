@@ -4,7 +4,7 @@ For the [SensePost](https://sensepost.com/) 2018 artwork, we ran an internal com
 
 ### Winning entry
 
-![SensePost 2018 JASH Art](https://raw.githubusercontent.com/sensepost/jash.sh/master/images/jash.png =250x250)
+<a href="https://github.com/sensepost/jash.sh/blob/master/images/jash.png"><img src="https://raw.githubusercontent.com/sensepost/jash.sh/master/images/jash.png" align="center" height="200" width="200" alt="SensePost 2018 JASH Art" /></a>
 
 ### The Rules
 
