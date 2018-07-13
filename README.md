@@ -11,14 +11,14 @@ For the [SensePost](https://sensepost.com/) 2018 artwork, we ran an internal com
 
 ### Submissions
 
-@leonjza [leon](https://github.com/sensepost/jash.sh/blob/master/polyglots/leon)
+By @[leonjza](https://github.com/sensepost/jash.sh/blob/master/polyglots/leonjza)
 ```python
 #<?
 print("JASH");
 ```
 Runs in 9: python2/3, R, Ruby, Perl, Lua, Julia, php7.1, hack/hhvm
 
-@singe [singe](https://github.com/sensepost/jash.sh/blob/master/polyglots/singe)
+By @[singe](https://github.com/sensepost/jash.sh/blob/master/polyglots/singe)
 ```python
 #/*<?#*/
 #include <stdio.h> /*
