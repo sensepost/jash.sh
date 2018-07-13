@@ -1,0 +1,2 @@
+#!/bin/sh
+$1 JASH 2>&1 | grep -o JASH | uniq

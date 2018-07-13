@@ -35,3 +35,10 @@ int main() { printf("JASH"); } /*
 """#*/
 ```
 Runs in 7: python2, zsh, Ruby, Perl, php, C, C++
+
+By @[ian](https://github.com/sensepost/jash.sh/blob/master/polyglots/ian)
+```bash
+#!/bin/sh
+$1 JASH 2>&1 | grep -o JASH | uniq
+```
+Ian hacked the rules to come up with his "fileless" polyglot. Run in anything that reflects the first parameter in either stdout or stderr.
