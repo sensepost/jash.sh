@@ -5,20 +5,20 @@ For the [SensePost](https://sensepost.com/) 2018 artwork, we ran an internal com
 ### The Rules
 
 * The primary aim is to submit a polyglot that runs in the most languages with the fewest characters.
-** Differences in major version numbers of languages can count as different languages
+  * Differences in major version numbers of languages can count as different languages
 * However, polyglots that use novel techniques, or run in esoteric languages are encouraged.
 * As are beautiful polyglots i.e. elegant code or pictographic code.
 
 ### Submissions
 
-@leonjza (leon)[https://github.com/sensepost/jash.sh/blob/master/polyglots/leon]
+@leonjza [leon](https://github.com/sensepost/jash.sh/blob/master/polyglots/leon)
 ```python
 #<?
 print("JASH");
 ```
 Runs in 9: python2/3, R, Ruby, Perl, Lua, Julia, php7.1, hack/hhvm
 
-@singe (singe)[https://github.com/sensepost/jash.sh/blob/master/polyglots/singe]
+@singe [singe](https://github.com/sensepost/jash.sh/blob/master/polyglots/singe)
 ```python
 #/*<?#*/
 #include <stdio.h> /*
