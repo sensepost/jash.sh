@@ -2,6 +2,10 @@
 
 For the [SensePost](https://sensepost.com/) 2018 artwork, we ran an internal competition to develop polyglot's (i.e. code that runs in multiple languages) to print out the text "JASH". This is a throw back to the old [Just Another Perl Hacker](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) competitions. Feel free to submit your own idea with a [pull request](https://github.com/sensepost/jash.sh/compare).
 
+### Winning entry
+
+[SensePost 2018 JASH Art](https://github.com/sensepost/jash.sh/blob/master/images/jash.png)
+
 ### The Rules
 
 * The primary aim is to submit a polyglot that runs in the most languages with the fewest characters.
